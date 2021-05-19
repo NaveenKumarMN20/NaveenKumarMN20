@@ -1,5 +1,9 @@
 ### Hi there 👋
-[![NaveenKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenKumarMN20&count_private=true)]
+[![NaveenKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenKumarMN20&count_private=true&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenKumarMN20)]
+[![NaveenKumar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NaveenKumarMN20)]
+
+
 
 
 <!-- BLOG-POST-LIST:START -->
