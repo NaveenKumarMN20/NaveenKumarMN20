@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![NaveenKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenKumarMN20)]
+[![NaveenKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenKumarMN20&count_private=true)]
 
 
 <!-- BLOG-POST-LIST:START -->
