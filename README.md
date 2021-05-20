@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![NaveenKumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NaveenKumarMN20&count_private=true&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenKumarMN20)]
 
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NaveenKumarMN20&count_private=true&show_icons=true" />
 
 
 <!-- BLOG-POST-LIST:START -->
